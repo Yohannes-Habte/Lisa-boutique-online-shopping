@@ -1,0 +1,14 @@
+# Ignore .env file which contains sensitive data
+.env
+
+# Ignore log files
+*.log
+
+# Ignore vendor/ directory (if you're using Composer)
+vendor/
+
+# Ignore the node_modules directory (if you're using Node.js)
+node_modules/
+
+# Ignore the public or uploaded files directory
+/uploads/
